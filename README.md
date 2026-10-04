@@ -1,15 +1,15 @@
 <div align="center">
 
 ```text
-██████╗ ██╗  ██╗ █████╗ ██████╗  █████╗ ████████╗    ███████╗██████╗  █████╗ ████████╗██╗ █████╗ ██╗     
-██╔══██╗██║  ██║██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝    ██╔════╝██╔══██╗██╔══██╗╚══██╔══╝██║██╔══██╗██║     
-██████╔╝███████║███████║██████╔╝███████║   ██║       ███████╗██████╔╝███████║   ██║   ██║███████║██║     
-██╔══██╗██╔══██║██╔══██║██╔══██╗██╔══██║   ██║       ╚════██║██╔═══╝ ██╔══██║   ██║   ██║██╔══██║██║     
-██████╔╝██║  ██║██║  ██║██║  ██║██║  ██║   ██║       ███████║██║     ██║  ██║   ██║   ██║██║  ██║███████╗
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝       ╚══════╝╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═╝╚══════╝
+██████╗ ██╗  ██╗ █████╗ ██████╗  █████╗ ████████╗
+██╔══██╗██║  ██║██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝
+██████╔╝███████║███████║██████╔╝███████║   ██║   
+██╔══██╗██╔══██║██╔══██║██╔══██╗██╔══██║   ██║   
+██████╔╝██║  ██║██║  ██║██║  ██║██║  ██║   ██║   
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
 ```
 
-### **Ultra-Low Latency Geospatial Administrative Hierarchy & Proximity Search Engine for India**
+### **Bharat Spatial Engine — National-Scale Geospatial Hierarchy & Proximity Query Engine**
 
 [![Java](https://img.shields.io/badge/Java-21%20LTS-0891b2?style=flat-square&logo=openjdk&logoColor=white)](https://openjdk.org/projects/jdk/21/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.5-10b981?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
