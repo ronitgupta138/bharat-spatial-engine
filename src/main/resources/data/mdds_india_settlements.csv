@@ -1,0 +1,61 @@
+mddsCode,lgdCode,name,localName,level,stateCode,stateName,districtCode,districtName,subDistrictCode,subDistrictName,gramPanchayatName,latitude,longitude,population,areaSqKm,pincode,category
+1901001,WB01001,Kolkata GPO,কলকাতা,URBAN_BODY,19,West Bengal,311,Kolkata,02214,Kolkata Municipal Corp,Ward 45,22.572646,88.363895,4496694,206.08,700001,URBAN
+1901002,WB01002,Park Street,পার্ক স্ট্রিট,URBAN_BODY,19,West Bengal,311,Kolkata,02214,Kolkata Municipal Corp,Ward 63,22.551100,88.352400,125000,12.50,700016,URBAN
+1901003,WB01003,Salt Lake Sector V,সল্টলেক,URBAN_BODY,19,West Bengal,312,North 24 Parganas,02215,Bidhannagar MC,Ward 28,22.586700,88.417800,215000,18.20,700091,URBAN
+1901004,WB01004,New Town Action Area I,নিউ টাউন,URBAN_BODY,19,West Bengal,312,North 24 Parganas,02216,Rajarhat,Action Area I,22.589800,88.468200,185000,28.50,700156,URBAN
+1901005,WB01005,Howrah Station Area,হাওড়া,URBAN_BODY,19,West Bengal,313,Howrah,02217,Howrah Municipal Corp,Ward 12,22.583000,88.342600,1077000,63.55,711101,URBAN
+1901006,WB01006,Bardhaman Sadar,বর্ধমান,URBAN_BODY,19,West Bengal,314,Purba Bardhaman,02218,Burdwan Municipality,Ward 10,23.232400,87.861500,347000,26.30,713101,URBAN
+1901007,WB01007,Shyamsundar,শ্যামসুন্দর,VILLAGE,19,West Bengal,314,Purba Bardhaman,02219,Raina I,Shyamsundar GP,23.109200,87.892000,8540,6.45,713424,RURAL
+1901008,WB01008,Memari,মেমারি,VILLAGE,19,West Bengal,314,Purba Bardhaman,02220,Memari I,Memari GP,23.195000,88.113000,41445,11.20,713146,RURAL
+1901009,WB01009,Kalna Ambika,কালনা,VILLAGE,19,West Bengal,314,Purba Bardhaman,02221,Kalna I,Ambika Kalna GP,23.218000,88.363000,56722,8.90,713409,RURAL
+1901010,WB01010,Katwa,কাটোয়া,VILLAGE,19,West Bengal,314,Purba Bardhaman,02222,Katwa I,Katwa Rural GP,23.645000,88.132000,81615,14.50,713130,RURAL
+1901011,WB01011,Durgapur City Centre,দুর্গাপুর,URBAN_BODY,19,West Bengal,315,Paschim Bardhaman,02223,Durgapur MC,Ward 24,23.520400,87.311900,566517,154.20,713216,URBAN
+1901012,WB01012,Asansol Rail Nagar,আসানসোল,URBAN_BODY,19,West Bengal,315,Paschim Bardhaman,02224,Asansol MC,Ward 15,23.688900,86.966100,563917,127.30,713301,URBAN
+1901013,WB01013,Siliguri Junction,শিলিগুড়ি,URBAN_BODY,19,West Bengal,316,Darjeeling,02225,Siliguri MC,Ward 08,26.727100,88.423000,701489,41.90,734001,URBAN
+1901014,WB01014,Darjeeling Mall,দার্জিলিং,URBAN_BODY,19,West Bengal,316,Darjeeling,02226,Darjeeling Municipality,Ward 05,27.041000,88.266300,120000,10.57,734101,URBAN
+1901015,WB01015,Santiniketan Bolpur,শান্তিনিকেতন,VILLAGE,19,West Bengal,317,Birbhum,02227,Bolpur Sriniketan,Santiniketan GP,23.680000,87.680000,35600,16.40,731235,RURAL
+2701001,MH01001,Nariman Point,नरिमन पॉइंट,URBAN_BODY,27,Maharashtra,519,Mumbai City,04185,BMC South,Ward A,18.925600,72.824200,85000,4.20,400021,URBAN
+2701002,MH01002,Bandra Kurla Complex,बांद्रा,URBAN_BODY,27,Maharashtra,520,Mumbai Suburban,04186,BMC West,Ward H-East,19.066400,72.868700,240000,15.60,400051,URBAN
+2701003,MH01003,Shivajinagar Pune,पुणे,URBAN_BODY,27,Maharashtra,521,Pune,04187,PMC Central,Ward 14,18.530800,73.847500,3124458,331.26,411005,URBAN
+2701004,MH01004,Hinjawadi Phase 1,हिंजवडी,VILLAGE,27,Maharashtra,521,Pune,04188,Mulshi,Hinjawadi Gram Panchayat,18.591300,73.738900,48200,14.80,411057,RURAL
+2701005,MH01005,Baramati Rural,बारामती,VILLAGE,27,Maharashtra,521,Pune,04189,Baramati Tehsil,Malegaon GP,18.151700,74.577100,54000,22.10,413102,RURAL
+2701006,MH01006,Nagpur Zero Mile,नागपूर,URBAN_BODY,27,Maharashtra,505,Nagpur,04190,NMC Central,Ward 20,21.145800,79.088200,2405665,227.36,440001,URBAN
+2701007,MH01007,Nashik Panchavati,नाशिक,URBAN_BODY,27,Maharashtra,516,Nashik,04191,Nashik MC,Ward 11,20.006300,73.790000,1486053,259.10,422003,URBAN
+2901001,KA01001,MG Road Bengaluru,ಬೆಂಗಳೂರು,URBAN_BODY,29,Karnataka,572,Bengaluru Urban,05534,BBMP Central,Ward 111,12.975600,77.606600,8443675,709.00,560001,URBAN
+2901002,KA01002,Electronic City Phase 1,ಎಲೆಕ್ಟ್ರಾನಿಕ್ ಸಿಟಿ,VILLAGE,29,Karnataka,572,Bengaluru Urban,05535,Anekal,Doddathoguru GP,12.845200,77.660200,78500,18.40,560100,RURAL
+2901003,KA01003,Whitefield Kadugodi,ವೈಟ್‌ಫೀಲ್ಡ್,URBAN_BODY,29,Karnataka,572,Bengaluru Urban,05536,BBMP East,Ward 84,12.969800,77.749900,265000,32.00,560066,URBAN
+2901004,KA01004,Mysuru Palace Area,ಮೈಸೂರು,URBAN_BODY,29,Karnataka,577,Mysuru,05537,Mysuru CC,Ward 18,12.305200,76.655200,920550,128.42,570001,URBAN
+2901005,KA01005,Hubballi Vidyanagar,ಹುಬ್ಬಳ್ಳಿ,URBAN_BODY,29,Karnataka,563,Dharwad,05538,HDMC Central,Ward 22,15.364700,75.124000,943788,181.66,580021,URBAN
+2901006,KA01006,Belagavi Tilakwadi,ಬೆಳಗಾವಿ,URBAN_BODY,29,Karnataka,555,Belagavi,05539,Belagavi CC,Ward 09,15.849700,74.497700,488157,94.08,590006,URBAN
+0701001,DL01001,Connaught Place,कनॉट प्लेस,URBAN_BODY,07,Delhi,093,New Delhi,00501,NDMC,Palika Ward,28.631500,77.216700,150000,14.50,110001,URBAN
+0701002,DL01002,Hauz Khas Village,हौज़ खास,VILLAGE,07,Delhi,095,South Delhi,00502,Hauz Khas Tehsil,Hauz Khas Village GP,28.553400,77.194400,32400,4.60,110016,URBAN
+0701003,DL01003,Cyber City Gurugram,साइबर सिटी,URBAN_BODY,06,Haryana,086,Gurugram,00412,MCG East,DLF Phase 2,28.495200,77.089500,876824,232.00,122002,URBAN
+0701004,DL01004,Noida Sector 62,नोएडा,URBAN_BODY,09,Uttar Pradesh,141,Gautam Buddha Nagar,00730,Noida Authority,Sector 62 Cluster,28.627100,77.365300,637272,203.16,201309,URBAN
+0901001,UP01001,Kashi Vishwanath Corridor,वाराणसी,URBAN_BODY,09,Uttar Pradesh,196,Varanasi,01011,Varanasi Nagar Nigam,Godowlia Ward,25.310900,83.010400,1198491,82.10,221001,URBAN
+0901002,UP01002,Sarnath Deer Park,सारनाथ,VILLAGE,09,Uttar Pradesh,196,Varanasi,01012,Varanasi Sadar,Sarnath Gram Panchayat,25.376200,83.022700,24500,7.80,221007,RURAL
+0901003,UP01003,Hazratganj Lucknow,लखनऊ,URBAN_BODY,09,Uttar Pradesh,157,Lucknow,00812,Lucknow Nagar Nigam,Ward 33,26.846700,80.946200,2817105,349.00,226001,URBAN
+0901004,UP01004,Prayagraj Sangam,प्रयागराज,URBAN_BODY,09,Uttar Pradesh,175,Prayagraj,00902,Prayagraj Nagar Nigam,Daraganj Ward,25.435800,81.846300,1112544,164.00,211005,URBAN
+0901005,UP01005,Ayodhya Ram Mandir Area,अयोध्या,URBAN_BODY,09,Uttar Pradesh,177,Ayodhya,00920,Ayodhya Nagar Nigam,Ramkot Ward,26.792200,82.199800,221000,79.80,224123,URBAN
+3301001,TN01001,Marina Beach Chennai,சென்னை,URBAN_BODY,33,Tamil Nadu,603,Chennai,05901,Greater Chennai Corp,Mylapore Ward,13.047500,80.282400,7088000,426.00,600005,URBAN
+3301002,TN01002,Tidel Park Tharamani,தரமணி,URBAN_BODY,33,Tamil Nadu,603,Chennai,05902,Greater Chennai Corp,Velachery Ward,12.989700,80.245800,145000,12.30,600113,URBAN
+3301003,TN01003,Coimbatore Gandhipuram,கோயம்புத்தூர்,URBAN_BODY,33,Tamil Nadu,632,Coimbatore,06012,Coimbatore CC,Ward 26,11.016800,76.955800,1601438,246.75,641012,URBAN
+3301004,TN01004,Madurai Meenakshi,மதுரை,URBAN_BODY,33,Tamil Nadu,623,Madurai,05988,Madurai CC,Central Ward,9.919500,78.119300,1470755,147.97,625001,URBAN
+2401001,GJ01001,Sabarmati Ashram Ahmedabad,અમદાવાદ,URBAN_BODY,24,Gujarat,474,Ahmedabad,03812,Ahmedabad MC,Sabarmati Ward,23.060500,72.580000,5577940,464.16,380027,URBAN
+2401002,GJ01002,GIFT City Gandhinagar,ગાંધીનગર,URBAN_BODY,24,Gujarat,475,Gandhinagar,03820,Gandhinagar Notified,GIFT SEZ,23.161000,72.684000,42000,10.20,382355,URBAN
+2401003,GJ01003,Surat Diamond Bourse,સુરત,URBAN_BODY,24,Gujarat,492,Surat,03955,Surat MC,Khajod Ward,21.170200,72.831100,4466826,326.51,395007,URBAN
+3601001,TG01001,Hitec City Hyderabad,హైదరాబాద్,URBAN_BODY,36,Telangana,535,Hyderabad,04512,GHMC West,Madhapur Ward,17.447400,78.376200,6809970,650.00,500081,URBAN
+3601002,TG01002,Charminar Old City,చార్మినార్,URBAN_BODY,36,Telangana,535,Hyderabad,04513,GHMC South,Charminar Ward,17.361600,78.474700,980000,45.20,500002,URBAN
+2801001,AP01001,RK Beach Visakhapatnam,విశాఖపట్నం,URBAN_BODY,28,Andhra Pradesh,542,Visakhapatnam,04811,GVMC East,Maharanipeta Ward,17.712600,83.324200,2035922,681.96,530002,URBAN
+2801002,AP01002,Kanaka Durga Vijayawada,విజయవాడ,URBAN_BODY,28,Andhra Pradesh,547,NTR Krishna,04902,Vijayawada MC,One Town Ward,16.515100,80.613300,1021806,61.88,520001,URBAN
+0801001,RJ01001,Hawa Mahal Jaipur,जयपुर,URBAN_BODY,08,Rajasthan,115,Jaipur,00612,Jaipur Heritage MC,Badi Chaupar Ward,26.923900,75.826700,3046163,467.00,302002,URBAN
+0801002,RJ01002,Mehrangarh Jodhpur,जोधपुर,URBAN_BODY,08,Rajasthan,119,Jodhpur,00650,Jodhpur Nagar Nigam,Fort Ward,26.298000,73.018900,1033756,233.50,342001,URBAN
+1001001,BR01001,Golghar Patna,पटना,URBAN_BODY,10,Bihar,230,Patna,01401,Patna Nagar Nigam,Gandhi Maidan Ward,25.619000,85.141400,1684222,109.22,800001,URBAN
+1001002,BR01002,Bodh Gaya Mahabodhi,बोधगया,VILLAGE,10,Bihar,238,Gaya,01511,Bodh Gaya Block,Mastipur GP,24.696100,84.991300,45349,15.60,824231,RURAL
+3201001,KL01001,Padmanabhaswamy Temple,തിരുവനന്തപുരം,URBAN_BODY,32,Kerala,598,Thiruvananthapuram,05812,TMC Central,East Fort Ward,8.483100,76.943600,957730,214.86,695023,URBAN
+3201002,KL01002,Fort Kochi Heritage,കൊച്ചി,URBAN_BODY,32,Kerala,595,Ernakulam,05789,Kochi MC,Fort Kochi Ward,9.965800,76.242100,602046,94.88,682001,URBAN
+2101001,OR01001,Lingaraj Temple Bhubaneswar,ଭୁବନେଶ୍ୱର,URBAN_BODY,21,Odisha,385,Khurda,03102,BMC Central,Old Town Ward,20.238200,85.833800,843402,161.00,751002,URBAN
+2101002,OR01002,Jagannath Puri,ପୁରୀ,URBAN_BODY,21,Odisha,387,Puri,03120,Puri Municipality,Grand Road Ward,19.804900,85.817900,200564,16.84,752001,URBAN
+1801001,AS01001,Kamakhya Temple Guwahati,গুৱাহাটী,URBAN_BODY,18,Assam,305,Kamrup Metropolitan,02101,GMC West,Kamakhya Ward,26.166400,91.705400,957352,216.00,781010,URBAN
+0301001,PB01001,Golden Temple Amritsar,ਅੰਮ੍ਰਿਤਸਰ,URBAN_BODY,03,Punjab,035,Amritsar,00180,Amritsar MC,Harmandir Sahib Ward,31.620000,74.876500,1159064,139.00,143006,URBAN
+2301001,MP01001,Upper Lake Bhopal,भोपाल,URBAN_BODY,23,Madhya Pradesh,438,Bhopal,03401,Bhopal MC,Shamla Hills Ward,23.238500,77.382800,1798218,285.88,462001,URBAN
+2301002,MP01002,Rajwada Indore,इंदौर,URBAN_BODY,23,Madhya Pradesh,439,Indore,03412,Indore MC,Rajwada Ward,22.719600,75.857700,1994397,276.00,452004,URBAN

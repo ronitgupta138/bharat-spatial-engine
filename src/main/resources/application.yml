@@ -1,0 +1,32 @@
+server:
+  port: 8080
+  compression:
+    enabled: true
+    mime-types: text/html,text/xml,text/plain,text/css,text/javascript,application/javascript,application/json
+    min-response-size: 1024
+
+spring:
+  application:
+    name: bharat-spatial-engine
+  threads:
+    virtual:
+      enabled: true
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,metrics,prometheus
+  endpoint:
+    health:
+      show-details: always
+
+bharat-spatial:
+  data:
+    preload-default: true
+    synthetic-scale-count: 50000
+    dataset-path: classpath:data/mdds_india_settlements.csv
+  cache:
+    knn-max-limit: 100
+    default-radius-km: 10.0
+    max-radius-km: 150.0
